@@ -1,0 +1,52 @@
+ <!DOCTYPE html >
+ <html >
+     <head >
+         <title>
+          Phantomart2030.Com
+         </title>         
+     </head>
+     <body style="background:url(img1.jpg);width:400px;height:1500px">"
+         <h1 style="Font-size50px;Font-style:italix;Text-align:center; Color :blue;">
+             Phantomart2030.Com 
+         </h1>
+         
+       
+           <div style ="display :flex ; margin:0px; ">
+             
+             <img src="01-01.jpg" alt="profile picture " style ="Border-radius :90px; width :180px  ;height :180px ;">
+             <img src="image.jpg " alt=" " style ="Border-radius :25px; width :50px; height :50px; padx:50px;">
+             <hr>
+             <img src=". jpg" alt="image not found" style="width :150px ;height:150px ;">
+             
+         </div>
+         <hr>
+<div style="display:flex;">
+         <a href="https://www.instagram.com/phantomart2030?igsh=MWdycjUzcWNwNm9jeg==">        
+              <img src="car1.jpg" alt="image "style ="width:200px ;height:200px  ">
+              Instagram</a> 
+              <a href="https://www.facebook.com/share/p/1HGjZdrC5c/">
+             
+       Facebook</a><hr>
+       
+         <a href>
+             
+       Watsapp</a>
+         <hr></a>
+              
+      
+ </div>        
+         
+         
+         
+                 
+ <u>   
+ <i> 
+   <p style ="color :green ;Text-align :center ;font-size :30px">
+         
+                      
+         </p>
+         </i>
+         </u>
+         <hr>
+     </body>
+ </html>
